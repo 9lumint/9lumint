@@ -12,7 +12,7 @@
 ## ❄️ 9lumint's Channel ❄️
 
 <a href="https://9lumint39100.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-e7e7e7?style=for-the-badge&logo=tistory&logoColor=ff0000"/></a>
-<img src="https://img.shields.io/badge/email-e7e7e7?style=for-the-badge&logo=gmail&logoColor=ff0000"/></a> <br/>
+<img src="https://img.shields.io/badge/email-e7e7e7?style=for-the-badge&logo=gmail&logoColor=ff0000"/>
 
 <br/>
 
@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 
+<br/>
 <br/>
 
 ## ❄️ 9lumint's GitHub stats ❄️
