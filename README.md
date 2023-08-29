@@ -1,7 +1,7 @@
 <div align="center">
 
 <div class="header">
-<img src="https://capsule-render.vercel.app/api?type=Egg&color=0:e7e7e7,100:424242&height=150&text=❄️%20Welcome%20to%209lumint's%2039100%20❄️&animation=fadeIn&fontColor=fffbfe&fontSize=24&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=Egg&color=0:e7e7e7,100:424242&height=150&text=❄️%20Welcome%20to%209lumint's%2039100%20❄️&animation=fadeIn&fontColor=e7e7e7&fontSize=25&fontAlignY=35"/>
 </div>
 
 ### Clap! Clap! Clap!
