@@ -18,7 +18,7 @@
 ## ❄️ 9lumint's Channel ❄️
 
 <a href="https://9lumint39100.tistory.com" target="_blank"><img src="https://img.shields.io/badge/blog-e7e7e7?style=for-the-badge&logo=tistory&logoColor=ff0000"/></a>
-<a href="mailto:9lumint@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-e7e7e7?style=for-the-badge&logo=gmail&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/9lumint@gmail.com-e7e7e7?style=for-the-badge&logo=gmail&logoColor=ff0000"/>
 
 <br/>
 
