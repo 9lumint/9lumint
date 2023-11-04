@@ -51,9 +51,5 @@
 
 <br/>
 <br/>
-<br/>
-
-## ❄️ 9lumint's GitHub stats ❄️
-![9lumint's GitHub stats](https://github-readme-stats-zeta-five-72.vercel.app/api?username=9lumint&show_icons=true&bg_color=e7e7e7&title_color=424242&text_color=424242&icon_color=ff0000)
 
 </div>
